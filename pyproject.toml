@@ -2,6 +2,13 @@
 name = "Bl2ModCabinet"
 version = "1.0.0"
 authors = [{ name = "Ty-Gone" }]
+supported\_games:
+  - BL2
+legacy: false
+license:
+  name: MIT
+  url: https://choosealicense.com/licenses/mit/
+
 description = """\
 An in-game Mod Cabinet for Borderlands 2.\n
 Provides a dedicated UI for browsing, installing, and managing BL2 Python SDK mods
@@ -14,3 +21,4 @@ name = "Mod Cabinet"
 coop_support = "Client Side"
 license = { name = "MIT", url = "https://choosealicense.com/licenses/mit/" }
 download = "https://github.com/mantorofficial/Bl2-ModCabinet/raw/refs/heads/main/ModCabinetStore.sdkmod"
+author: Ty-gone
