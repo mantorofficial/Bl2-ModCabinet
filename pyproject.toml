@@ -11,7 +11,7 @@ Make sure to press Q to refrsh so that your old mods get registered
 dependencies = []
 
 [tool.sdkmod]
-name = "Mod Cabinet"
+name = "BL2 Mod Cabinet"
 coop_support = "Client Side"
 license = { name = "MIT", url = "https://choosealicense.com/licenses/mit/" }
 download = "https://github.com/mantorofficial/Bl2-ModCabinet/raw/refs/heads/main/ModCabinetStore.sdkmod"
