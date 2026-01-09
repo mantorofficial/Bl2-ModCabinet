@@ -5,10 +5,16 @@ pyproject\_url: https://raw.githubusercontent.com/mantorofficial/Bl2-ModCabinet/
 ---
 supported\_games:
 - BL2
+  
 legacy: false
+
 license:
+
   name: MIT
-  url: https://choosealicense.com/licenses/mit/
+  
+  url:
+  
+  https://choosealicense.com/licenses/mit/
 
 
 
@@ -23,6 +29,7 @@ It’s designed to behave like the normal Mods menu (options-style list with hov
 \- Install and uninstall directly from the UI
 
 \- Update outaded versions
+
 
 
 
