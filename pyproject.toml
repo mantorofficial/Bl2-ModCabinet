@@ -2,12 +2,6 @@
 name = "Bl2ModCabinet"
 version = "1.0.0"
 authors = [{ name = "Ty-Gone" }]
-supported\_games:
-BL2
-legacy: false
-license:
-  name: MIT
-  url: https://choosealicense.com/licenses/mit/
 
 description = """\
 An in-game Mod Cabinet for Borderlands 2.\n
