@@ -31,10 +31,7 @@ urls:
 version: "1.0.0"
 
 
-
 \*\*Mod Cabinet\*\* adds an in-game “cabinet” style menu for Borderlands 2 SDK mods.
-
-
 
 It’s designed to behave like the normal Mods menu (options-style list with hover/click selection), while letting you:
 
@@ -44,7 +41,6 @@ It’s designed to behave like the normal Mods menu (options-style list with hov
 
 \- Install and uninstall directly from the UI
 
-\- Stay compatible with a fresh, unmodified `willow2\\\_mod\\\_menu`
-
 \- Update outaded versions
+
 
