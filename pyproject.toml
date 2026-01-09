@@ -3,7 +3,7 @@ name = "Bl2ModCabinet"
 version = "1.0.0"
 authors = [{ name = "Ty-Gone" }]
 supported\_games:
-  - BL2
+BL2
 legacy: false
 license:
   name: MIT
