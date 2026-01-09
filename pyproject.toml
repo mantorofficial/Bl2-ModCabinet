@@ -5,7 +5,7 @@ authors = [{ name = "Ty-Gone" }]
 description = """\
 An in-game Mod Cabinet for Borderlands 2.\n
 Provides a dedicated UI for browsing, installing, and managing BL2 Python SDK mods
-without modifying the default willow2_mod_menu.
+Make sure to press Q to refrsh so that your old mods get registered
 """
 dependencies = []
 
