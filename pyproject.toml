@@ -13,4 +13,4 @@ dependencies = []
 name = "Mod Cabinet"
 coop_support = "Unknown"
 license = { name = "MIT", url = "https://choosealicense.com/licenses/mit/" }
-download = "https://github.com/mantorofficial/Bl2-ModCabine/raw/refs/heads/main/ModCabinetStore.sdkmod
+download = "https://github.com/mantorofficial/Bl2-ModCabine/raw/refs/heads/main/ModCabinetStore.sdkmod"
