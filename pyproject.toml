@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "modcabinet"
+version = "1.0.0"
+description = "An in-game Mod Cabinet for Borderlands 2 that allows browsing, installing, and managing BL2 Python SDK mods."
+authors = [
+    { name = "Ty-Gone" }
+]
+readme = "README.md"
+requires-python = ">=3.7"
+
+[project.urls]
+Homepage = "https://github.com/mantorofficial/Bl2-ModCabinet"
+Source = "https://github.com/mantorofficial/Bl2-ModCabinet"
+
+# Optional but very useful for tooling
+[tool.bl2sdk]
+entrypoint = "modcabinet.cabinet:main"
+supported_games = ["Borderlands 2"]
+coop_support = true
