@@ -8,9 +8,7 @@ supported\_games:
   
 legacy: false
 
-license:
-
-  name: MIT
+license: MIT
   
   url:
   
@@ -29,6 +27,7 @@ It’s designed to behave like the normal Mods menu (options-style list with hov
 \- Install and uninstall directly from the UI
 
 \- Update outaded versions
+
 
 
 
